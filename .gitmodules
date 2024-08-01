@@ -1,0 +1,3 @@
+[submodule "template-one"]
+	path = template-one
+	url = https://github.com/Developer-Student-Club-UoA/portfolio-website-template-one.git
