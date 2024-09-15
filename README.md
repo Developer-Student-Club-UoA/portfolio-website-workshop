@@ -1,7 +1,5 @@
 # portfolio-website-workshop
 
-# Git and Node.js Installation Guide
-
 ## Table of Contents
 1. Install Git
    - Windows
