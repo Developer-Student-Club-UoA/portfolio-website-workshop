@@ -1,4 +1,4 @@
-# portfolio-website-workshop
+# Portfolio Website + Deployment + NFC Card Workshop!
 
 ## Creating and Deploying a Portfolio on GitHub and Netlify
 
