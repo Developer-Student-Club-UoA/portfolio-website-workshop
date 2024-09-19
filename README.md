@@ -1,5 +1,56 @@
 # portfolio-website-workshop
 
+## Creating and Deploying a Portfolio on GitHub and Netlify
+
+Pick the `Astro` template you want to use!
+
+*** 
+**Step 1:** Go to https://github.com/Developer-Student-Club-UoA/portfolio-website-template-two **OR** https://github.com/Developer-Student-Club-UoA/portfolio-website-template-one
+*** 
+**Step 2:** Create a fork of the repo
+
+![image](https://github.com/user-attachments/assets/6cacc3ba-be96-496c-8d85-d7debb9700d0)
+*** 
+**Step 3:** Name your repo something fun!
+
+![image](https://github.com/user-attachments/assets/6d5f4065-8caa-4287-a4dd-975e426f1b29)
+*** 
+**Step 4:** Give it a fun description
+
+![image](https://github.com/user-attachments/assets/c620eae9-e0ab-4741-8b0d-56fc46993d16)
+*** 
+**Step 5:** Click on Create fork
+
+![image](https://github.com/user-attachments/assets/a4ab5965-6bfc-42a8-806d-7617f8bdd678)
+
+Your fork should now look something like this:
+
+![image](https://github.com/user-attachments/assets/2c88b8aa-29cb-4928-8196-759191c4376e)
+*** 
+**Step 6:** Nagivate to https://idx.google.com/
+*** 
+**Step 7:** Click on Import a repo
+
+![image](https://github.com/user-attachments/assets/f584e493-908a-4d16-ae0f-2a5f190eb8b0)
+*** 
+**Step 8:** Paste the URL of your fork into the dialog to import a Git Repo
+
+![image](https://github.com/user-attachments/assets/34f25d05-7372-4a1d-a5ec-f05ad643eb43)
+***
+**Step 9:** Click on Import
+
+![image](https://github.com/user-attachments/assets/e7e884ee-1c83-4559-a642-4b33fce8b2c4)
+
+You should now see the dialog of it beginning to import
+
+![image](https://github.com/user-attachments/assets/03341574-942a-46ea-b6a6-0cf77f10cc4f)
+
+Once you get in, wait for it to set up. The terminal should end up looking like the following:
+![image](https://github.com/user-attachments/assets/9b98b4a5-fbf0-469d-bb33-8c441579e7f8)
+***
+
+From now, click on the template link, and follow the `README` contained within. Come back here for deployment instructions :)
+
 ## Deployment Instructions:
 ***
 **Step 1:** Go to https://app.netlify.com/login
