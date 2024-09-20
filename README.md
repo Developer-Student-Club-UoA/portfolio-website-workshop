@@ -5,7 +5,18 @@
 Pick the `Astro` template you want to use!
 
 *** 
-**Step 1:** Go to https://github.com/Developer-Student-Club-UoA/portfolio-website-template-two **OR** https://github.com/Developer-Student-Club-UoA/portfolio-website-template-one
+**Step 1:** Go to either repo and follow the instructions contained in the README within.
+
+https://github.com/Developer-Student-Club-UoA/portfolio-website-template-two
+
+![image](https://github.com/user-attachments/assets/f8eb74b5-148b-446a-bc78-92699ec08cfe)
+
+**OR**
+
+https://github.com/Developer-Student-Club-UoA/portfolio-website-template-one
+
+![image](https://github.com/user-attachments/assets/d13d0f43-2a4b-4ef4-b33c-df5183e1fa9f)
+
 *** 
 **Step 2:** Create a fork of the repo
 
