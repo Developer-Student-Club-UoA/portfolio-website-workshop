@@ -60,7 +60,25 @@ Once you get in, wait for it to set up. The terminal should end up looking like 
 ![image](https://github.com/user-attachments/assets/9b98b4a5-fbf0-469d-bb33-8c441579e7f8)
 ***
 
-From now, click on the template link, and follow the `README` contained within. Come back here for deployment instructions :)
+***
+**Step 10:** Install the Astro extension for syntax highlighting for `.astro` files.
+![image](https://github.com/user-attachments/assets/ac4d796c-abe5-4739-b377-6f76b377464b)
+***
+
+***
+**Step 11:** Open up the terminal with ``Ctrl + ` ``.
+* Run `npm i` to install dependencies for the project
+
+After the dependencies have been installed, run `npm run dev`.
+
+You should see this in your terminal.
+
+![image](https://github.com/user-attachments/assets/441ec4ed-646a-489b-a415-22287e96daef)
+
+Click on the `localhost:4321` link and it should open up a preview of the website.
+***
+
+From now, click on the template link, and follow the `README` contained within to customise the template. Come back here for deployment instructions :)
 
 ## Deployment Instructions:
 ***
